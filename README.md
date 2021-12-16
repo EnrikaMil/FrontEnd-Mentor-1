@@ -1,2 +1,5 @@
-# FrontEnd-Mentor-1
-First frontend mentor challenge.
+# FrontEnd-Mentor Challenges
+
+## Project's done:
+
+- [ ] NFT card component
