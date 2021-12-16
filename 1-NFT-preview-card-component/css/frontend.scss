@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+
+body {
+	background: hsl(217, 54%, 11%);
+	margin: 0;
+	font-family: "Outfit";
+}
+
+.hero {
+	background-color: hsl(216, 50%, 16%);
+	color: white;
+	margin-top: 3em;
+	margin-bottom: 2em;
+	margin-right: 1em;
+	margin-left: 1em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-radius: 1em;
+}
+
+.main-image {
+	max-width: 100%;
+	border-radius: 1em;
+	position: relative;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+
+.heading {
+	padding-left: 0.5em;
+}
+
+.text {
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	color: hsl(215, 51%, 70%);
+}
+
+.diamond {
+	padding-left: 0.5em;
+	color: hsl(178, 100%, 50%);
+}
+
+.clock {
+	padding-right: 0.5em;
+	color: hsl(215, 51%, 70%);
+	float: right;
+}
+
+.divider {
+	padding: 0.75em, 0.5em, 0.5em, 0.5em;
+	color: hsl(215, 32%, 27%);
+}
+
+.creation {
+	padding-left: 0.3em;
+	color: hsl(215, 51%, 70%);
+}
+
+.author {
+	border: 1px solid #fff;
+	border-radius: 50%;
+	width: 10%;
+}
+
+.jules {
+	color: white;
+}
