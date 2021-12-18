@@ -29,8 +29,41 @@ body {
   width: 100%;
 }
 
+.main-image:hover {
+  opacity: 30%;
+}
+
+.image {
+  background: #00fff7;
+  border-radius: 1.1em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.eye {
+  position: absolute;
+  opacity: 0;
+  color: white;
+}
+
+.image:hover .eye {
+  opacity: 1;
+}
+
 .heading {
   padding-left: 0.5em;
+}
+
+.heading:hover, .heading:focus {
+  color: #00fff7;
+  cursor: pointer;
 }
 
 .text {
@@ -68,5 +101,10 @@ body {
 
 .jules {
   color: white;
+}
+
+.jules:hover, .jules:focus {
+  color: #00fff7;
+  cursor: pointer;
 }
 /*# sourceMappingURL=frontend.css.map */
