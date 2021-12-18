@@ -50,6 +50,7 @@ body {
 	width: 100%;
 	&:hover {
 		opacity: 30%;
+		cursor: pointer;
 	}
 }
 
@@ -65,10 +66,9 @@ body {
 	position: absolute;
 	opacity: 0;
 	color: white;
-}
-
-.image:hover .eye {
-	opacity: 1;
+	&:hover {
+		cursor: pointer;
+	}
 }
 
 .heading {

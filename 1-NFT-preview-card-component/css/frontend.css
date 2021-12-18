@@ -55,6 +55,7 @@ body {
 
 .main-image:hover {
   opacity: 30%;
+  cursor: pointer;
 }
 
 .image {
@@ -77,8 +78,8 @@ body {
   color: white;
 }
 
-.image:hover .eye {
-  opacity: 1;
+.eye:hover {
+  cursor: pointer;
 }
 
 .heading {
