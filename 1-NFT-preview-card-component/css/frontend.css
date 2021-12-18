@@ -82,6 +82,10 @@ body {
   cursor: pointer;
 }
 
+.image:hover .eye {
+  opacity: 100%;
+}
+
 .heading {
   padding-left: 0.5em;
 }
