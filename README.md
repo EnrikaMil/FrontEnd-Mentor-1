@@ -4,4 +4,4 @@
 
 ## Project's done:
 
-- [ ] [NFT card component](https://friendly-leavitt-a69012.netlify.app/1-nft-preview-card-component/frontend-1)
+- [x] [NFT card component](https://friendly-leavitt-a69012.netlify.app/1-nft-preview-card-component/frontend-1)
